@@ -1,3 +1,7 @@
+> ⚠️ 本仓已并入 [yjh051108/dsh-omc](https://github.com/yjh051108/dsh-omc)（单仓库化）。
+> 新装：`git clone https://github.com/yjh051108/dsh-omc && cd dsh-omc && ./install.sh`
+> 本仓保留为历史镜像；已 clone 的仍可 pull。
+
 # @dsh-external/dsh-issue-watch
 
 每小时巡检指定仓库的 open issue / PR：新项自动分诊（PR 先本地验证再决定合并，issue 复现后修或给结论），结果落盘并回帖。
